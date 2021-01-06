@@ -167,6 +167,7 @@ mysterious errors. When you do, here are some places you can look for help:
   + [This answer][change-theme] shows you how to add your own themes to your
     private config.
   + [This answer][change-font] shows you how to change the default font.
+  + Noobs should first orient themselves around Treemacs to learn Projectile and Perspective. Do this and everything else will fall into place. The [Treemacs documentation](https://github.com/Alexander-Miller/treemacs) helps a lot.
   + Your issue may be documented in the [FAQ].
 + With Emacs built-in help system documentation is a keystroke away:
   + For functions: <kbd>SPC h f</kbd> or <kbd>C-h f</kbd>
